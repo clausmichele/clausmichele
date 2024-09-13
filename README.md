@@ -1,5 +1,5 @@
 ## Hi there, I'm Michele Claus 👋
-I am a geospatial engineer working in the field of remote sensing, machine learning and cloud computing and related open source projects.
+I am a geospatial engineer working in the field of remote sensing, machine learning and cloud computing and related open source projects. I have a background in Computer Vision and worked in this field before.
 
 <img src="https://github.com/clausmichele/clausmichele/blob/main/BOLZANO_FALSE_SAR_RGB_BLEND.jpg" width=100% />
 
@@ -19,6 +19,11 @@ The image presented above is a view from space of the city of Bolzano (Italy), w
 - [STAC](https://stacspec.org/en):
   - Main developer of the [raster2stac](https://pypi.org/project/raster2stac/) Python package, which allows the creation of STAC Collection with Items and Assets starting from different kinds of raster datasets. The goal is to make a dataset easily accessible, interoperable, and shareable.
 
+📹 Computer Vision / Deep Learning
+
+- [ViDeNN: Deep Blind Video Denoising](https://github.com/clausmichele/ViDeNN) : tensorflow model to denoise videos affected by different types of degradation, such as Additive White Gaussian Noise and videos in Low-Light conditions.
+- [DnCNN: Beyond a Gaussian Denoiser](https://github.com/clausmichele/DnCNN-tensorflow) : Residual Learning of Deep CNN for Image Denoising. Extended model to RGB [with this PR.](https://github.com/wbhu/DnCNN-tensorflow/pull/32)
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=clausmichele&show_icons=true&theme=dark"
@@ -30,17 +35,3 @@ The image presented above is a view from space of the city of Bolzano (Italy), w
   />
   <img src="https://github-readme-stats.vercel.app/api?username=clausmichele&show_icons=true" />
 </picture>
-<!--
-**clausmichele/clausmichele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
